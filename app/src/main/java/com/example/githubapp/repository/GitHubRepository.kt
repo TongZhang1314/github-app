@@ -9,7 +9,7 @@ import com.example.githubapp.net.GitHubUser
 import com.example.githubapp.net.RetrofitClient
 
 // 令牌token
-const val credentials = "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"
+const val credentials = "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"
 
 // 数据仓库
 class GitHubRepository {
