@@ -1,6 +1,8 @@
 此项目为demo项目, kotlin+jetpack compose+mvvm
 自验证与apk已提供，apk文件需要先解压
 github登陆账号
+HSBC/123456
+
 
 UML设计图如下
 
